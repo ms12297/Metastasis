@@ -7,6 +7,8 @@ Cancer is one of the most common diseases of developed countries, accounting for
 Sources provided for learning about cancers are perceived as boring and complex by most people – especially the children in schools taking biology classes. This is why I developed this game using the Unity Editor. With a little shock therapy at the end of the game, I intend to engage the audience in an interactive experience to learn about cancer. Learning outcomes include basic knowledge of cancers - their formation, modes of transmission, survival, means to aid the immune system etc. So through this free game on the market, learning is made easier and fun, all the while explaining to the audience why the knowledge of cancers concerns them – health is invaluable.  
 The main constraint of this project is that not everyone has access to the internet, and not everyone has access to a computer. Hence, Metastasis can reach only a portion of the target audience.  
 
+While this is just a work in progress, I have researched many methods to improve this game. For example, the Prefab and Raycast methods to introduce projectile shooting into the game. I intend to allow the White Blood Cells to shoot antibodies at the user. In this way, I eventually intend to make this game as charactersitc of the real cells' functions as possible.
+
 
 ## User Manual:
 
