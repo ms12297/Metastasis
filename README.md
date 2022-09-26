@@ -2,7 +2,7 @@
 
 ## User Manual:
 
-1) Download the New-Unity-Project folder. Open this project in the Unity Editor
+1) Download the New-Unity-Project folder. Open this project in the Unity Editor (Version 2019.4.12f1)
 2) Go to File, Build Settings 
 3) Drag the scenes from the Scenes Folder in Assets into the "Scenes in Build" panel in the following order:
  - Menu
