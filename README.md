@@ -5,7 +5,14 @@
 Cancer is one of the most common diseases of developed countries, accounting for roughly one in four deaths, similar to the number of deaths from strokes and coronary heart diseases combined. Lung cancer caused alone one in 16 deaths in the UK in 2009 (one person every 15 minutes). Cancers are the by-products of uncontrolled mitosis (cell division) due to the implementation of faulty code for mitosis. This faulty code is a result of mutations (changes in the genes a cell possesses). Normally, cancer cells are destroyed by the immune system but in case a cancer cell  escapes the immune system’s defense protocol, it will divide uncontrollably and form a mass of cancer cells lumped together. This lump is a tumor and if the tumor spreads, metastasis occurs which is the spread of cancer throughout the body. 
 
 Sources provided for learning about cancers are perceived as boring and complex by most people – especially the children in schools taking biology classes. This is why I developed this game using the Unity Editor. With a little shock therapy at the end of the game, I intend to engage the audience in an interactive experience to learn about cancer. Learning outcomes include basic knowledge of cancers - their formation, modes of transmission, survival, means to aid the immune system etc. So through this free game on the market, learning is made easier and fun, all the while explaining to the audience why the knowledge of cancers concerns them – health is invaluable.  
+
 The main constraint of this project is that not everyone has access to the internet, and not everyone has access to a computer. Hence, Metastasis can reach only a portion of the target audience.  
+
+## Implementation
+
+I used the NavMesh class in Unity to integrate path-finding for enemy AIs. I also used the TextMeshPro class to make texts in dialogue scenes more appealing. 
+
+The 3D models I used came from two sources: the MakeHuman software in which I made the models myself using the software’s assets and Mixamo, from which I downloaded pre-built free 3D models. 
 
 While this is just a work in progress, I have researched many methods to improve this game. For example, the Prefab and Raycast methods to introduce projectile shooting into the game. I intend to allow the White Blood Cells to shoot antibodies at the user. In this way, I eventually intend to make this game as charactersitc of the real cells' functions as possible.
 
